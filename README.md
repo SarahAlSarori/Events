@@ -1,2 +1,2 @@
 # Events
-This is final project of Advanced web course.
+This is my Repository for Advanced web final project.
